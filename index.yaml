@@ -21,6 +21,6 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://raw.githubusercontent.com/kevin/charts/master/repo/stable/postgresql-100.6.0.tgz
+    - https://raw.githubusercontent.com/kdunetz/charts/master/repo/stable/postgresql-100.6.0.tgz
     version: 100.6.0
  generated: 2017-07-05T17:47:27.923801905-04:00
